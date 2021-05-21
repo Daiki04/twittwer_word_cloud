@@ -1,4 +1,4 @@
 streamlit
 wordcloud
 Tweetl
-MeCab
+mecab-python3
